@@ -82,6 +82,10 @@
 
 #define AV_ERROR_MAX_STRING_SIZE 64
 
+#if defined(WIN32)
+#define inline __inline  
+#endif  
+
 /**
  * Put a description of the AVERROR code errnum in errbuf.
  * In case of failure the global variable errno is set to indicate the
