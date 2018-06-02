@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs_ffmpeg_dev", "vs_ffmpeg_dev\vs_ffmpeg_dev.vcxproj", "{628401E7-EB7D-4EEE-BE78-400A8C2AC167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628401E7-EB7D-4EEE-BE78-400A8C2AC167}.Debug|Win32.ActiveCfg = Debug|Win32
+		{628401E7-EB7D-4EEE-BE78-400A8C2AC167}.Debug|Win32.Build.0 = Debug|Win32
+		{628401E7-EB7D-4EEE-BE78-400A8C2AC167}.Release|Win32.ActiveCfg = Release|Win32
+		{628401E7-EB7D-4EEE-BE78-400A8C2AC167}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
