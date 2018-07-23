@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>E:\Work\videos_xmls\meizhinan.ts E:\Work\videos_xmls\meizhinnan.yuv</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>F:\265测试素材\1080p_15000000_H264_CBR.ts d:\output.yuv d:\output.pcm</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

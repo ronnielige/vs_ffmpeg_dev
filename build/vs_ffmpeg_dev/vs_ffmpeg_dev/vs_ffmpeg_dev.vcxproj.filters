@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\src\decode_video.c">
+    <ClCompile Include="..\..\..\src\demuxing_decoding.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
